@@ -28,6 +28,7 @@ I am a passionate developer from Indonesia who loves to build digital solutions.
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="niawww.jpeg" width="200" alt="niasepty">
 </p>
 
 ---
@@ -44,6 +45,8 @@ I am a passionate developer from Indonesia who loves to build digital solutions.
 </p>
 
 ---
+## 🐍 My Contributions Snake
+![snake gif](https://github.com/niasepty/niasepty/blob/output/github-contribution-grid-snake.svg)
 
 ### 🤝 Connect with Me
 
