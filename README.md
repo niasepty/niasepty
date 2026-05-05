@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+niasepty;Welcome+to+my+Github!;I+love+to+build+creative+apps" alt="Typing SVG" />
 </p>
 
-![niasepty](niawww.jpeg)
+<img src="niawww.jpeg" width="1000" alt="niasepty">
 
 ---
 
@@ -28,7 +28,7 @@ I am a passionate developer from Indonesia who loves to build digital solutions.
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="niawww.jpeg" width="200" alt="niasepty">
+  
 </p>
 
 ---
