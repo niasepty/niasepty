@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+niasepty;Welcome+to+my+Github!;I+love+to+build+creative+apps" alt="Typing SVG" />
 </p>
 
-<img src="niawww.jpeg" width="1000" alt="niasepty">
+<img src="niawww.jpeg" width="450" alt="niasepty">
 
 ---
 
