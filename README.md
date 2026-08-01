@@ -1,34 +1,47 @@
-# Hi there! 👋
+<h1 align="center">Hi there, I'm Nia Septi Tri Pertiwi 👋</h1>
+<h3 align="center">Data Analyst • IoT Enthusiast • Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+niasepty;Welcome+to+my+Github!;I+love+to+build+creative+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+Into+Insight;Building+Simple+IoT+Solutions;Crafting+Clean%2C+Functional+Websites&font=Fira+Code&center=true&width=500&height=45&color=E6262C&vCenter=true&size=22" />
 </p>
 
-<img src="niawww.jpeg" width="500" alt="niasepty" align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/niaseptitripertiwi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:septitrinia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niasepty&color=e6262c&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
 
-### 💫 About Me
+### 🚀 About Me
 
-I am a passionate developer from Indonesia who loves to build digital solutions.
-
-- 🔭 I’m currently working on **Personal Portfolio**
-- 🌱 I’m currently learning **Fullstack Development**
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me: **septitrinia@gmail.com**
+- 🎓 Studying **Teknik Informatika** at STIKOM Poltek Cirebon (2023 – 2027)
+- 📊 Turning raw data into insights people can actually use
+- 🔧 Building small, practical IoT projects (Arduino / ESP32)
+- 💻 Also enjoy crafting clean, functional websites
+- 🌱 Currently sharpening my **Data Analysis** & **Python** skills
+- 📫 Reach me at **septitrinia@gmail.com**
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,arduino,figma,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-E6262C?style=flat-square&logo=internetcomputer&logoColor=white" />
 </p>
 
 ---
@@ -36,27 +49,22 @@ I am a passionate developer from Indonesia who loves to build digital solutions.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niasepty&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niasepty&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niasepty&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niasepty&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niasepty&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niasepty&theme=radical&hide_border=true" />
 </p>
 
 ---
-## 🐍 My Contributions Snake
-![snake gif](https://github.com/niasepty/niasepty/blob/output/github-contribution-grid-snake.svg)
 
-### 🤝 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/niasepty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niasepty" height="30" width="40" /></a>
-<a href="https://instagram.com/niasepty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niasepty" height="30" width="40" /></a>
-</p>
-
-<br />
+### 🏆 Trophies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niasepty&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=niasepty&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+<p align="center"><i>"Dari data ke keputusan, dari ide ke sistem yang hidup."</i></p>
