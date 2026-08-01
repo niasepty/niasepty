@@ -1,23 +1,33 @@
-# Hi there! 👋
+<h1 align="center">Hi there, I'm niasepty 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+niasepty;Welcome+to+my+Github!;I+love+to+build+creative+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+to+build+creative+apps;Data+%7C+IoT+%7C+Web+Developer" alt="Typing SVG" />
 </p>
 
-<img src="niawww.jpeg" width="500" alt="niasepty" align="center">
+<br />
 
----
+<table>
+  <tr>
+    <td width="240" align="center">
+      <img src="niawww.jpeg" width="200" style="border-radius: 50%; border: 3px solid #36BCF7;" alt="niasepty" />
+    </td>
+    <td valign="middle">
+      <h3>💫 About Me</h3>
+      <p>
+        A passionate developer from Indonesia who loves turning ideas into
+        working digital solutions — from data, to devices, to the web.
+      </p>
+      <ul>
+        <li>🔭 Currently working on <b>Personal Portfolio</b></li>
+        <li>🌱 Currently learning <b>Fullstack Development</b></li>
+        <li>💬 Ask me about <b>Web Development</b></li>
+        <li>📫 Reach me at <b>septitrinia@gmail.com</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 💫 About Me
-
-I am a passionate developer from Indonesia who loves to build digital solutions.
-
-- 🔭 I'm currently working on **Personal Portfolio**
-- 🌱 I'm currently learning **Fullstack Development**
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me: **septitrinia@gmail.com**
-
----
+<br />
 
 ### 🛠 Tech Stack
 
@@ -30,7 +40,7 @@ I am a passionate developer from Indonesia who loves to build digital solutions.
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<br />
 
 ### 📊 GitHub Stats
 
@@ -43,23 +53,29 @@ I am a passionate developer from Indonesia who loves to build digital solutions.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niasepty&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br />
 
-## 🐍 My Contribution Snake
+### 🐍 My Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasepty/niasepty/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasepty/niasepty/output/github-contribution-grid-snake.svg" />
-  <img alt="snake game eating contribution squares" src="https://raw.githubusercontent.com/niasepty/niasepty/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasepty/niasepty/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasepty/niasepty/output/github-contribution-grid-snake.svg" />
+    <img alt="snake game eating contribution squares" src="https://raw.githubusercontent.com/niasepty/niasepty/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
----
+<br />
 
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/niasepty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niasepty" height="30" width="40" /></a>
-<a href="https://instagram.com/niasepty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niasepty" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/niasepty" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niasepty" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/niasepty" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niasepty" height="30" width="40" />
+  </a>
 </p>
 
 <br />
